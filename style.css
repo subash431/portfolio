@@ -173,11 +173,9 @@ input,
 textarea {
   margin-bottom: 15px;
   padding: 10px;
-  border-radius: 1rem;
-  border: none;
-  box-shadow: 2px 2px 7px #8888;
-  background-color: #f5f1f1;
+
   height: 40px;
+  border-radius: 1rem;
 }
 
 .button {
